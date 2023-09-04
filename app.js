@@ -49,27 +49,27 @@ document.write(illegalVariable5 + "<br/>")
 //=================Console Display=================//
 
 console.log("Rules for naming JS variables");
-console.log("a) Variable names can only contain "+ number + ","+dollar+ " and _.For example: $my_1stVariable<br>");
-console.log("b) Variables must begin with a letter, $ "+$name+" sign. For example: $name, _name, or name<br>");
-console.log("c) Variable names are case-" + sensitive +".<br/>");
+console.log("a) Variable names can only contain "+ number + ","+dollar+ " and _.For example: $my_1stVariable");
+console.log("b) Variables must begin with a letter, $ "+$name+" sign. For example: $name, _name, or name");
+console.log("c) Variable names are case-" + sensitive +".");
 console.log("d) Variable names should not be JavaScript " + keywords+".");
 
 //==================Legal Variable Console=================//
 
 console.log("5 Legal Variable Names:")
-console.log(legalVariable1)
-console.log(legalVariable2)
-console.log(legalVariable3)
-console.log(legalVariable4)
-console.log(legalVariable5)
+console.log("1) "+legalVariable1)
+console.log("2) "+legalVariable2)
+console.log("3) "+legalVariable3)
+console.log("4) "+legalVariable4)
+console.log("5) "+legalVariable5)
 
 //==============Illegal-Varaible-Console===============//
 
 console.log("5 Illegal Variable Names:")
-console.log(illegalVariable1)
-console.log(illegalVariable2)
-console.log(illegalVariable3)
-console.log(illegalVariable4)
-console.log(illegalVariable5)
+console.log("1) "+illegalVariable1)
+console.log("2) "+illegalVariable2)
+console.log("3) "+illegalVariable3)
+console.log("4) "+illegalVariable4)
+console.log("5) "+illegalVariable5)
 
 //======================END=========================//
